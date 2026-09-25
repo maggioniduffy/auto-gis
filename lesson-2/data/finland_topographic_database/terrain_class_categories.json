@@ -1,0 +1,86 @@
+{
+  "32111": {
+    "category": "extraction",
+    "confidence": 1.0
+  },
+  "32112": {
+    "category": "extraction",
+    "confidence": 1.0
+  },
+  "32200": {
+    "category": "urban_green",
+    "confidence": 1.0
+  },
+  "32417": {
+    "category": "built_up",
+    "confidence": 1.0
+  },
+  "32421": {
+    "category": "built_up",
+    "confidence": 1.0
+  },
+  "32500": {
+    "category": "extraction",
+    "confidence": 1.0
+  },
+  "32611": {
+    "category": "agriculture",
+    "confidence": 0.98
+  },
+  "32612": {
+    "category": "urban_green",
+    "confidence": 1.0
+  },
+  "32800": {
+    "category": "agriculture",
+    "confidence": 1.0
+  },
+  "32900": {
+    "category": "urban_green",
+    "confidence": 1.0
+  },
+  "33000": {
+    "category": "built_up",
+    "confidence": 0.98
+  },
+  "33100": {
+    "category": "urban_green",
+    "confidence": 1.0
+  },
+  "34100": {
+    "category": "bare_natural",
+    "confidence": 1.0
+  },
+  "34300": {
+    "category": "bare_natural",
+    "confidence": 0.88
+  },
+  "34700": {
+    "category": "bare_natural",
+    "confidence": 1.0
+  },
+  "35300": {
+    "category": "wetland",
+    "confidence": 1.0
+  },
+  "35411": {
+    "category": "wetland",
+    "confidence": 1.0
+  },
+  "35412": {
+    "category": "wetland",
+    "confidence": 1.0
+  },
+  "35421": {
+    "category": "wetland",
+    "confidence": 0.99
+  },
+  "36200": {
+    "category": "water",
+    "confidence": 1.0
+  },
+  "36313": {
+    "category": "water",
+    "confidence": 0.97
+  }
+}
